@@ -1,0 +1,13 @@
+# Configuration files
+settings.json
+
+# Log files
+failed_emails.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments (if you use one later)
+venv/
+env/
