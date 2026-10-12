@@ -16,5 +16,5 @@ You just dump a raw list of emails into the text box, and the script handles the
 
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/your-username/automailer.git](https://github.com/your-username/automailer.git)
+   git clone [https://github.com/achrafnassereddine/automailer.git](https://github.com/achrafnassereddine//automailer.git)
    cd automailer
